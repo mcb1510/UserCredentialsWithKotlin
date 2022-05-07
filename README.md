@@ -1,6 +1,6 @@
 # Overview
 
-This is a program that will allow the user to create and log in into an account. The program will then store the user's credentials into a file.
+This is a program that will allow the user to create and login into an account. The program will then store the user's credentials in a file.
 
 I created this program to demonstrate the use of Kotlin lenguage.
 
@@ -20,7 +20,7 @@ The program will contain the following Kotlin Syntax:
 
 Here is a video link of me explaining how this program works.
 
-[Hello World video](https://www.youtube.com/watch?v=7_Se6GI-6xM)
+[Kotlin User Credentials Program](https://youtu.be/UcJRpMxtIlw)
 
 # Development Environment
 
